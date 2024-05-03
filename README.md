@@ -1,3 +1,9 @@
+# Montando Consultas Relacionais no SQL Server
+
+O projeto consiste na criação de consultas SQL de um banco de dados pré-definido. As consultas foram organizadas da pasta [DATABASE](https://github.com/JonatasC17/trilha-net-banco-de-dados-desafio/tree/main/Database) e foram criadas a partir dos conhecimentos adquiridos no curso *Programação de APIs com Banco de Dados*, parte integrante do Bootcamp **.NET Developer** da DIO. 
+-------------------------
+
+
 # DIO - Trilha .NET - Banco de Dados
 www.dio.me
 
